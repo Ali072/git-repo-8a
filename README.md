@@ -1,4 +1,4 @@
-# git-repo-8a
+# git-repo-8a 
 Git ali
 gitall
-git dit
+git dit local 
