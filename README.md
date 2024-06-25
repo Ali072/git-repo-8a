@@ -5,4 +5,4 @@ git dit local
 # git-repo-8a remote
 Git ali
 gitall
-git dit
+git dit local2
